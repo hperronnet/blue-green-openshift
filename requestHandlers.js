@@ -21,10 +21,10 @@ function start(response) {
         'var radius = 70;'+
         'context.beginPath();'+
         'context.arc(centerX, centerY, radius, 0, 2 * Math.PI, false);'+
-        'context.fillStyle = "blue";'+
+        'context.fillStyle = "green";'+
         'context.fill();'+
         'context.lineWidth = 5;'+
-        'context.strokeStyle = "#003300";'+
+        'context.strokeStyle = "blue";'+
         'context.stroke();'+
         '</script>'+
         '</body>'+
